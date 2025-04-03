@@ -1,0 +1,55 @@
+Card ID,Card Name,Card URL,Card Description,Labels,Members,Due Date,Attachment Count,Attachment Links,Checklist Item Total Count,Checklist Item Completed Count,Vote Count,Comment Count,Last Activity Date,List ID,List Name,Board ID,Board Name,Archived,Start Date,Due Complete
+67ee8233423c999ee3dd4fcf,Baixa prioridade,https://trello.com/c/X7jP3biC/2-baixa-prioridade,,Baixa prioridade (green),,,0,,0,0,0,0,2025-04-03T19:06:21.398Z,67ee8233e65dfa80606dabe9,Nível de prioridade,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
+67ee823310db28e9f04d0637,Média prioridade,https://trello.com/c/n7Pzyt57/1-m%C3%A9dia-prioridade,,Média prioridade (yellow),,,0,,0,0,0,0,2025-04-03T16:57:31.400Z,67ee8233e65dfa80606dabe9,Nível de prioridade,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
+67eebe076df390f584445b64,Alta prioridade,https://trello.com/c/msunkseZ/5-alta-prioridade,,Alta prioridade (red),,,0,,0,0,0,0,2025-04-03T16:57:50.680Z,67ee8233e65dfa80606dabe9,Nível de prioridade,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
+67ee832256b25fb68124c1bb,Tela de login e cadastro ;8 dias,https://trello.com/c/9lm6NhdX/3-tela-de-login-e-cadastro-8-dias,"**-Design da Interface (UI/UX) com acessibilidade:** Criar layout responsivo e acessível, ajustar contrastes, tamanhos e compatibilidade com leitores de tela, **1 dia**
+
+**-Desenvolvimento Front-end:** Criar campos de entrada, implementar validação de formulários e  adicionar recursos de acessibilidade, 2 dias
+
+**-Integração com Back-end:** Criar endpoints de login e cadastro, configurar autenticação segura e integração com banco de dados e serviços de autenticação, **3 dias**
+
+**-Testes e Ajustes:** Testar funcionalidade e responsividade, testar acessibilidade e corrigir bugs e melhorar experiência, **2 dias**",Média prioridade (yellow),,,0,,0,0,0,0,2025-04-03T19:11:39.125Z,67ee8233cae583457ced3ef8,Backlog,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
+67ee8327e1e1880bb71fdeaa,Tela de seleção ;6 dias,https://trello.com/c/27dfCNoB/4-tela-de-sele%C3%A7%C3%A3o-6-dias,"**-Design da Interface (UI/UX)**: criação de layout responsivo e intuitivo e ajustar elementos de acessibilidade e usabilidade, **1,5 dia**
+
+**-Desenvolvimento Front-end**: Criar campos de seleção, implementar salvamento temporário (local state) e adicionar acessibilidade, **2 dias**
+
+**-Integração com Back-end:** Criar endpoints para salvar preferências do usuário, criar lógica de recuperação/aplicação das preferências, **1 dia**
+
+**-Testes e Ajustes:** Testar funcionalidade e responsividade, testar acessibilidade (VoiceOver, TalkBack, teclado) e corrigir bugs e melhorar experiência, **1,5 dias**",Média prioridade (yellow),,,0,,0,0,0,0,2025-04-03T18:47:24.111Z,67ee8233cae583457ced3ef8,Backlog,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
+67eec854e076152e2a3d41c8,Ferramenta de descrição de vídeo ;15 dias,https://trello.com/c/g0Q3fgfH/6-ferramenta-de-descri%C3%A7%C3%A3o-de-v%C3%ADdeo-15-dias,"**-Pesquisa e Definição da Tecnologia:** Escolha de modelo de IA para transcrição e descrição, definição de arquitetura e fluxos de processamento, **1 dia**
+
+**-Desenvolvimento do Front-end:** Criar interface de captura de vídeo, criar interface de saída de áudio da descrição e Implementar acessibilidade, **3 dias**
+
+**-Processamento de Vídeo e Geração de Descrição (Back-end + IA):** Implementar extração de áudio em tempo real, integrar serviço de transcrição automática em tempo real, criar algoritmo de análise de imagem para descrever cenários e objetos e criar sistema de síntese de voz para leitura das descrições, 7 dias
+
+**-Testes e Ajustes:** Testes de precisão da transcrição e descrição ao vivo e testes de performance e latência do processamento em tempo real, 2 dias
+
+**-Implementação de Melhorias e Otimização:** Melhorar tempo de resposta e eficiência do processamento de IA e ajustar UX/UI com base em feedback de testes com usuários reais, 2 dias",Alta prioridade (red),,,0,,0,0,0,0,2025-04-03T18:15:09.530Z,67ee8233cae583457ced3ef8,Backlog,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
+67eecc80dfe657ddaf51e151,Ferramenta comando por voz ;16 dias,https://trello.com/c/RuwicS86/7-ferramenta-comando-por-voz-16-dias,"**-Pesquisa e Definição da Tecnologia:** Escolha de modelo de IA para transcrição e descrição, definição de arquitetura e fluxos de processamento, **1 dia**
+
+**-Desenvolvimento do Front-end:** Criar interface para ativação e configuração dos comandos de voz, criar interface de feedback visual/sonoro para usuários e implementar acessibilidade, **4 dias**
+
+**-Desenvolvimento do Processamento de Voz e Execução de Comandos (Back-end + IA):** Implementar captação de voz em tempo real, integrar serviço de reconhecimento de fala e interpretação de comandos, Criar lógica para associar comandos de voz a ações no app, implementar suporte a múltiplos idiomas e sotaques, **7 dias**
+
+**-Testes e Ajustes:** Testes de precisão do reconhecimento de voz, testes de performance e tempo de resposta e testes de acessibilidade com usuários reais, **4 dias**
+
+**-Implementação de Melhorias e Otimização:** Melhorar eficiência do reconhecimento e resposta aos comandos e ajustar UX/UI conforme feedback de testes, **2 dias**",Alta prioridade (red),,,0,,0,0,0,0,2025-04-03T18:38:32.667Z,67ee8233cae583457ced3ef8,Backlog,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
+67eed26f66884a20b73c1c1e,Ferramenta de representação de musica ;18 dias,https://trello.com/c/N9KmJvnW/8-ferramenta-de-representa%C3%A7%C3%A3o-de-musica-18-dias,"**-Pesquisa e Definição da Tecnologia:** Escolha de modelo de IA para transcrição e descrição, definição de arquitetura e fluxos de processamento, **1 dia**
+
+**-Desenvolvimento do Front-end:** Criar interface do pop-up com animações gráficas, criar interface de configurações para personalização do pop-up e implementar acessibilidade, **3 dias**
+
+**-Processamento de Áudio e Interpretação Musical (Back-end + IA):** Implementar captação do áudio do vídeo em tempo real, criar sistema para identificar intensidade, frequência e variações rítmicas, desenvolver mapeamento de padrões musicais para visuais e implementar API para converter dados de áudio em visualizações dinâmicas, **8 dias**
+
+**-Testes e Ajustes:** Testes de precisão na detecção de padrões musicais, testes de performance e fluidez das animações e testes de acessibilidade com usuários reais, **3 dias**
+
+**-Implementação de Melhorias e Otimização:** Ajustar tempo de resposta e eficiência da análise de áudio e ajustar UX/UI conforme feedback de testes, **3 dias**",Alta prioridade (red),,,0,,0,0,0,0,2025-04-03T18:29:16.594Z,67ee8233cae583457ced3ef8,Backlog,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
+67eed3998ec0a92c97bafca0,Ferramenta de localização de acessibilidade ;17 dias,https://trello.com/c/z1yzBo1o/9-ferramenta-de-localiza%C3%A7%C3%A3o-de-acessibilidade-17-dias,"**-Pesquisa e Definição da Tecnologia:** Escolha de modelo de IA para transcrição e descrição, definição de arquitetura e fluxos de processamento, **1 dia**
+
+**-Desenvolvimento do Front-end:** Criar interface do mapa interativo, criar interface de filtros (tipo de acessibilidade: rampas, elevadores, etc.) e implementar acessibilidade na UI (suporte a leitores de tela, alto contraste, navegação por voz), **4 dias**
+
+**-Integração com API de Mapas e Banco de Dados:** Implementar API de mapas e exibição de pontos, criar banco de dados para armazenar locais acessíveis, criar sistema de atualização de pontos acessíveis e sincronizar localização do usuário para mostrar pontos próximos, **6 dias**
+
+**-Testes e Ajustes:** Testes de precisão na exibição de pontos no mapa, testes de performance e usabilidade em diferentes dispositivos e testes de acessibilidade, **3 dias**
+
+**-Implementação de Melhorias e Otimização:** Melhorar tempo de resposta da API e carregamento do mapa e ajustar UX/UI conforme feedback de testes, **3 dias**",Média prioridade (yellow),,,0,,0,0,0,0,2025-04-03T18:55:50.471Z,67ee8233cae583457ced3ef8,Backlog,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
+67eed66a62dca9c8d4c7072e,Tempo total: 80 dias,https://trello.com/c/QjBbuYTo/11-tempo-total-80-dias,,,,,0,,0,0,0,0,2025-04-03T18:42:38.530Z,67ee8233cae583457ced3ef8,Backlog,67ee8232f9080a09817a5a4a,APP DE ACESSIBILIDADE,false,,false
